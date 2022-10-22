@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "name": "Debayan Roy",
+      "email": "debyan@gmail.com",
+      "phone": "7896589685",
+      "password": "sfdyfgsfty",
+      "city": "kharagpur",
+      "dob": "02-01-2000",
+      "id": 1
+    },
+    {
+      "name": "Rahul Dey",
+      "email": "rahul@gmail.com",
+      "phone": "7485964578",
+      "password": "4567646998754",
+      "city": "Medinipur",
+      "state": "West Bengal",
+      "dob": "1997-02-04",
+      "id": 2
+    }
+  ]
+}
